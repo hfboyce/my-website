@@ -18,7 +18,7 @@ copyright = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
-publishDir = "hfboyce.github.io"
+publishDir = "public"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
