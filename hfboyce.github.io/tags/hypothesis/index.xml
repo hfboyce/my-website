@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hypothesis on Hayley Boyce </title>
+    <link>/tags/hypothesis/</link>
+    <description>Recent content in hypothesis on Hayley Boyce </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Sep 2018 20:06:21 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/hypothesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Des-p-value-cito</title>
+      <link>/post/blog-02/</link>
+      <pubDate>Thu, 13 Sep 2018 20:06:21 -0700</pubDate>
+      
+      <guid>/post/blog-02/</guid>
+      <description>&lt;p&gt;A simple and easy to follow explanation on the definition and function of a p-value.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

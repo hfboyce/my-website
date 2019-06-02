@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hayley Boyce </title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Hayley Boyce </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ColourblindR &amp; Colourblind8</title>
+      <link>/project/colourblind/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/colourblind/</guid>
+      <description>A Python and R package facilitating colourblind friendly visualizations</description>
+    </item>
+    
+    <item>
+      <title>Boston Criminal Records using Shiny</title>
+      <link>/project/crime-rate/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/crime-rate/</guid>
+      <description>An interactive dashboard visualizing criminal activity in differing neighbourhoods and the time of day</description>
+    </item>
+    
+  </channel>
+</rss>

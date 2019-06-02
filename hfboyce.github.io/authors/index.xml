@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Hayley Boyce </title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Hayley Boyce </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am a Vancouver born, outdoor, baking and data enthusiast. Growing up in a French immersion atmosphere, I gravitated towards numbers and mathematics due to their versatile and universal application in all languages. This lead me to complete a Bachelor of Science degree at the University of Western Ontario from the Applied Mathematics department. I developed a passion for analytics through work experience which influenced my decision to persue a Master of Data science.</description>
+    </item>
+    
+  </channel>
+</rss>
