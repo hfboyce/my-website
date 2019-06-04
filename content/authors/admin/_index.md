@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Hayley Boyce"
+name = "Hayley Ford Boyce"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Data Scientist in Training "
+role = "Data Scientist"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Training machine learning models in the morning and myself in the evening."
