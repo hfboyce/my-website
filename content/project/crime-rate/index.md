@@ -25,6 +25,8 @@ external_link = "https://hfboyce.shinyapps.io/dsci_532-boston-crime-rate/"
 
 #url_pdf = "" url_code = "" url_dataset = "" url_slides = "" url_video = "" url_poster = ""
 
+url_code = "https://github.com/hfboyce/DSCI_532-boston-crime-rate"
+
 #Custom links (optional).
 
 #Uncomment line below to enable. For multiple links, use the form [{...}, {...}, {...}].
