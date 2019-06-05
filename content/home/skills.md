@@ -45,12 +45,6 @@ subtitle = ""
   name = "Statistics"
   
 [[feature]]
-  icon = "chart-area"
-  icon_pack = "fas"
-  name = "Data Visualization"
-
-
-[[feature]]
   icon = "folder-open"
   icon_pack = "fas"
   name = "Data Management"
