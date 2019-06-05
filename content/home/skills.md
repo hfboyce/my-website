@@ -14,7 +14,7 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-  [[feature]]
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -30,7 +30,7 @@ subtitle = ""
   name = "Data Visualization"
 
   [[feature]]
-  icon = "git-alt"
+  icon = "git"
   icon_pack = "fab"
   name = "Git & Version Control"
   
@@ -44,12 +44,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   
-  [[feature]]
-  icon = "chart-area"
-  icon_pack = "fas"
-  name = "Data Visualization"
-
-
   [[feature]]
   icon = "folder-open"
   icon_pack = "fas"
