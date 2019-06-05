@@ -23,18 +23,23 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  
+  [[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data Visualization"
 
   [[feature]]
-  icon = "aws"
+  icon = "git-alt"
   icon_pack = "fab"
-  name = "AWS"
+  name = "Git & Version Control"
   
-[[feature]]
+  [[feature]]
   icon = "layer-group"
   icon_pack = "fas"
   name = "Machine Learning"
   
-[[feature]]
+  [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
