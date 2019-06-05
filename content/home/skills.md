@@ -27,7 +27,7 @@ subtitle = ""
 [[feature]]
   icon = "git"
   icon_pack = "fab"
-  name = "AWS"
+  name = "Git & Version Control"
   
 [[feature]]
   icon = "chart-area"
