@@ -19,42 +19,48 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   
-  [[feature]]
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "AWS"
   
-  [[feature]]
+[[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Data Visualization"
 
-  [[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git & Version Control"
-  
-  [[feature]]
+[[feature]]
   icon = "layer-group"
   icon_pack = "fas"
   name = "Machine Learning"
   
-  [[feature]]
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   
-  [[feature]]
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data Visualization"
+
+
+[[feature]]
   icon = "folder-open"
   icon_pack = "fas"
   name = "Data Management"
 
-  [[feature]]
+[[feature]]
   icon = "cookie-bite"
   icon_pack = "fas"
   name = "Baking"
 
-  [[feature]]
+[[feature]]
   icon = "mountain"
   icon_pack = "fas"
   name = "Hiking"
