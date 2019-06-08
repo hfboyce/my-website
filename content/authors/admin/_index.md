@@ -71,7 +71,7 @@ user_groups = []
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-  link = "https://drive.google.com/file/d/1LPhcKsrIiC4rt-ChkjXlAW0dzHY0L_R7/view?usp=sharing"
+  link = "https://drive.google.com/file/d/1mZDYI0K4mJA-pXkQ1ykfEvIqVxnkJFGZ/view?usp=sharing"
 
 +++
 I am a Vancouver born, outdoor, baking and data enthusiast.  Growing up in a French immersion atmosphere, I gravitated towards numbers and mathematics due to their versatile and universal application in all languages. This led me to complete a Bachelor of Science degree at the University of Western Ontario from the Applied Mathematics department. I developed a passion for analytics through work experience which influenced my decision to persue a Master of Data Science.  I love creating new things, be it a new machine learning model, or a new recipe. 
