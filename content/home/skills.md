@@ -28,6 +28,11 @@ subtitle = ""
   icon = "git"
   icon_pack = "fab"
   name = "Git & Version Control"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
   
 [[feature]]
   icon = "chart-area"
@@ -49,10 +54,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data Management"
 
-[[feature]]
-  icon = "cookie-bite"
-  icon_pack = "fas"
-  name = "Baking"
 
 [[feature]]
   icon = "mountain"
