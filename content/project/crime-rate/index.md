@@ -8,7 +8,7 @@ draft = false
 #Example: tags = ["machine-learning", "deep-learning"]
 #Project summary to display on homepage.
 
-summary = "An interactive dashboard visualizing criminal activity in differing neighbourhoods and the time of day"
+summary = "An interactive dashboard visualizing criminal activity in differing neighbourhoods and time of day"
 
 #Slides (optional).
 #Associate this page with Markdown slides.

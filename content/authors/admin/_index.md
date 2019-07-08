@@ -12,7 +12,7 @@ superuser = true
 role = "Data Scientist"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Training machine learning models in the morning and myself in the evening."
+bio = "Discovering and displaying impactful insights from data"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -74,4 +74,4 @@ user_groups = []
 # link = "https://drive.google.com/file/d/1tO5ChI9rqOTphy6yl7t75eepIEz-KW_h/view?usp=sharing"
 
 +++
-Growing up in a French immersion atmosphere, I gravitated towards numbers and mathematics due to their versatile and universal application in all languages. This led me to complete a Bachelor of Science degree at the University of Western Ontario from the Applied Mathematics department. I developed a passion for analytics through work experience which influenced my decision to persue a Master of Data Science.
+Growing up in a French immersion atmosphere, I gravitated towards numbers and mathematics due to their versatile and universal application in all languages. This led me to complete a Bachelor of Science degree at the University of Western Ontario from the Applied Mathematics department and subsequently a Master of Data Science from the University of British Columbia. I like to explore a multitude of methods to enhance the efficiency of businesses be it in production, marketing or the financial sector.  I am particularly passionate about visualizing these insights by creating easy to understand graphics and tools.
