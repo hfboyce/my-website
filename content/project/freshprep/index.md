@@ -51,13 +51,13 @@ Fresh Prep, a local meal kit delivery company, has been striving to help their b
 
 <font size="5"> **Nomenclature and Specifics:**</font>    
 
-Fresh Prep orders can be either: 
-* <font color="#7db024">**Skipped**</font>  - an order that does not get delivered or charged, or 
-* <font color="#7db024">**Billed**</font> - an order which will be delivered and charged to the client.    
+Fresh Prep orders can be either:    
+* <font color="#7db024">**Skipped**</font>  - an order that does not get delivered or charged, or    
+* <font color="#7db024">**Billed**</font> - an order which will be delivered and charged to the client.       
 
-From there, a specific customer can choose to set their status to either of the following:  
-* <font color="#7db024">**Active**</font> - orders are automatically billed each week or 
-* <font color="#7db024">**Paused**</font> - orders are automatically skipped each week
+From there, a specific customer can choose to set their status to either of the following:     
+* <font color="#7db024">**Active**</font> - orders are automatically billed each week or    
+* <font color="#7db024">**Paused**</font> - orders are automatically skipped each week    
 
 
 <font size="5"> **Goal:**</font>     
