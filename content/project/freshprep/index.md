@@ -51,21 +51,34 @@ Fresh Prep, a local meal kit delivery company, has been striving to help their b
 
 <font size="5"> **Nomenclature and Specifics:**</font>    
 
-Fresh Prep orders can be either:    
-* <font color="#7db024">**Skipped**</font>  - an order that does not get delivered or charged, or    
-* <font color="#7db024">**Billed**</font> - an order which will be delivered and charged to the client.       
+Fresh Prep orders can be either:  
 
-From there, a specific customer can choose to set their status to either of the following:     
-* <font color="#7db024">**Active**</font> - orders are automatically billed each week or    
-* <font color="#7db024">**Paused**</font> - orders are automatically skipped each week    
+- <font color="#7db024"> **Skipped** </font>  - an order that does not get delivered or charged, or    
+- <font color="#7db024"> **Billed** </font> - an order which will be delivered and charged to the client.       
 
+From there, a specific customer can choose to set their status to either of the following:  
+
+- <font color="#7db024"> **Active** </font> - orders are automatically billed each week or    
+- <font color="#7db024"> **Paused** </font> - orders are automatically skipped each week    
+
+<center><img src="orders.jpg"></center>
+  <center><font size="2" color="#A9A9A9"><strong> Fig 1: Examples of billed (left) and skipped (right) orders </strong></font></center>
 
 <font size="5"> **Goal:**</font>     
 
 Our analysis focused around which active clients would be taking an action of opting out of particular orders and paused clients opting in for future orders. 
-The question we were attempting to answer for Fresh Prep was approximately **How many orders can the company expect in upcoming weeks? **.   
+The question we were attempting to answer for Fresh Prep was approximately **How many orders can the company expect in upcoming weeks?**   
 In order to give a better estimate to this question our analysis was concentrated on answering instead **Which customers will be ordering in the upcoming weeks**. 
-This enabled Fresh Prep to target specific clients and 
+This enabled Fresh Prep to:
+
+* Target specific clients to improve future order rates
+* Improve marketing, production and financial strategies, and
+* Avoid sending unnecessary emails to clients who have a larger chance of ordering or not ordering at all. 
+
+
+<font size="5"> **Procedure:**</font>  
+
+
 
 <center><img src="img2.png"></center>
   <center><font size="2" color="#A9A9A9"><strong> Fig 1: From the ColourblindR package, applying theme_trita() </strong></font></center>
