@@ -162,6 +162,6 @@ Time was a constraint for this project, however, we think there are improvements
 * Constructed predictive models for clients that produced probabilities of billing their next order
 * The model predicted orders for dates in 2019 with 1.5% error 
 * An interactive Tableau Dashboard was designed and delivered along with a Dockerized image for a reproducible pipeline
-* Further improvements can be made.   
+* Further improvements can be made  
 
 ---
