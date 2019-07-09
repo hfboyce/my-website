@@ -38,7 +38,7 @@ url_video = "https://drive.google.com/file/d/1SMXQXHZKUIhUgyqobPEwAn9cb6Mk7lfD/v
 [image]
 
 #Caption (optional)
-caption = "To protect the privacy of the company, all data used in the visualizations are fabricated"
+caption = "To protect the privacy of the company, all data used in the Dashboard images are fabricated"
 
 #Focal point (optional)
 #Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
