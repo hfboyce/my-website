@@ -65,3 +65,14 @@ The packages are available for installation from the repository links listed bel
 
 The repository includes methods and implemention examples. 
 
+* Travis was used for continuous integration
+
+---
+
+<font size="5"> **End Notes / TLDR:**</font>      
+
+* Created a python and R package that modifies plots to be colourblind friendly in nature
+* The source code and implementation can be found on [Github](https://github.com/hfboyce/ColourblindR)
+* `Travis` was used for continuous integration 
+
+---
