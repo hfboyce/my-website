@@ -67,13 +67,13 @@ From there, a specific customer can choose to set their status to either of the 
 <font size="5"> **Goal:**</font>     
 
 Our analysis focused around which active clients would be taking an action of opting out of particular orders and paused clients opting in for future orders. 
-The question we were attempting to answer for Fresh Prep was approximately **How many orders can the company expect in upcoming weeks?**   
-In order to give a better estimate to this question, our analysis was concentrated on answering instead **Which customers will be ordering in the upcoming weeks**. 
+The question we were attempting to answer for Fresh Prep was approximately: **How many orders can the company expect in upcoming weeks?**   
+In order to give a better estimate to this question, our analysis was concentrated on answering instead: **Which customers will be ordering in the upcoming weeks?**
 This enabled Fresh Prep to:
 
 * Target specific clients to improve future order rates
-* Improve marketing, production, and financial strategies, and
-* Avoid sending unnecessary emails to clients who have a larger chance of ordering or not ordering at all. 
+* Improve marketing, production, and financial strategies
+* Avoid sending unnecessary emails to clients who have a larger chance of ordering or not ordering at all
 
 
 <font size="5"> **Procedure:**</font>  
@@ -84,20 +84,20 @@ This enabled Fresh Prep to:
 2. **Exploratory Data Analysis (EDA):**  
   Through the process of EDA, the team was able to make quite a number of valuable insights into the business: 
 
-  * We found **active** and **paused** customers behave in quite different manners. The order rates of the two type of people were significantly dissimilar. 
-  * The ratio of billed to skipped orders for the active customers were relatively equal making the dataset quite balanced for predicting on our model. This made it obvious to us to have 2 different models for active and paused customers. 
+  * We found **active** and **paused** customers behave in quite different manners. The order rates of the two customer types were significantly dissimilar
+  * The ratio of billed to skipped orders for the active customers were relatively equal making the dataset quite balanced for predicting on our model. This made it obvious to us to have two different models for active and paused customers
   * Customers tend to order in a similar way of previous weeks
-  * The number of dietary restrictions has an effect on the billed order rate; customers with more restrictions, order more often than those with less.
-  * Customers who are customizing their orders skipping their orders more often than customers who customize less. 
-  * Active customers skip their future orders further out from the delivery date than paused customers who opt-in and bill their orders.    
+  * The number of dietary restrictions has an effect on the billed order rate; customers with more restrictions, order more often than those with less
+  * Customers who are customizing their orders skipping their orders more often than customers who customize less
+  * Active customers skip their future orders further out from the delivery date than paused customers who opt-in and bill their orders    
 <font color=#fffff> space </font> 
 
 3. **Feature Engineering:**  
-  While wrangling our data, the majority of the features used in the predictive model were engineered. we found these were the most meaningful when predicting orders: 
-  * The behaviour of the clients up to 5 weeks before the predictive week. 
-  * The individuals billed order rate up to the given predicted order. This rate was smoothed using an estimation approach known as [Empirical Bayes](http://varianceexplained.org/r/empirical_bayes_baseball/) to account for customers with less history. 
-  * Unfortunately, due to certain restrictions, we were unable to decompose our data into seasonality and trend components. Instead, we assumed that the trend of orders rates remained constant. We then used the weekly billed order rate of the particular week of the previous year as a feature. 
-  * The number of weeks a client existed at the time of the predicted order. 
+  While wrangling our data, the majority of the features used in the predictive model were engineered. We found these were the most meaningful when predicting orders: 
+  * The behaviour of the clients up to 5 weeks before the predictive week
+  * The individuals billed order rate up to the given predicted order. This rate was smoothed using an estimation approach known as [Empirical Bayes](http://varianceexplained.org/r/empirical_bayes_baseball/) to account for customers with less history 
+  * Unfortunately, due to certain restrictions, we were unable to decompose our data into seasonality and trend components. Instead, we assumed that the trend of orders rates remained constant. We then used the weekly billed order rate of the particular week of the previous year as a feature
+  * The number of weeks a client existed at the time of the predicted order
   * The month the customer joined 
   * A customer’s subscription prices
   * The location of a client's delivery (Latitude and Longitude based on the neighbourhood)
@@ -105,14 +105,14 @@ This enabled Fresh Prep to:
 <font color=#fffff> space </font> 
 
 4. **Predictive Model:**  
-  We Experimented with 2 models: **Random Forest** and **Logistic Regression**. We split our data into training and testing datasets by training on past order and testing on future ones.  One of the values the company had was the interpretability of it which logistic Regression provided for us in our final model. As stated earlier, we used 2 separate models for **paused** and **active** clients. We were worried initially with the unbalanced nature of the dataset for paused clients, however, in this particular case, it was not an issue. For our active clients, we produced a probability of a client billing their order and took an expected value of the number of orders to expect for that week. In comparison, for our paused clients we produced a classification on if they would bill or skip their order based on a 50% threshold. Any paused client with a probability <0.5 would be given a value of 0 ~ a `skipped` order and if the probability was > 0.5, the client would be given a value of 1 for a `billed` order.  Summing up these values gave a prediction for the number of billed orders among **paused** clients. 
+  We Experimented with two models: **Random Forest** and **Logistic Regression**. We split our data into training and testing datasets by training on past order and testing on future ones.  One of the values the company had was the interpretability of it which Logistic Regression provided for us in our final model. As stated earlier, we used two separate models for **paused** and **active** clients. We were worried initially with the unbalanced nature of the dataset for paused clients, however, in this particular case, it was not an issue. For our active clients, we produced a probability of a client billing their order and took an expected value of the number of orders to expect for that week. In comparison, for our paused clients we produced a classification on if they would bill or skip their order based on a 50% threshold. Any paused client with a probability <0.5 would be given a value of 0 ~ a `skipped` order and if the probability was > 0.5, the client would be given a value of 1 for a `billed` order. Summing up these values gave a prediction for the number of billed orders among **paused** clients. 
 
 
 <font size="5"> **Results:**</font>  
 
 The predictive model that we constructed ended up with a 4.61 Mean Absolute Percentage Error (MAPE) on the total number of billed orders from June 2018 to June 2019. 
 To put this into perspective - for a week in the company predicts 1000 orders, the error is at most 50 orders. 
-Using only dates in 2019 to give the model more training data 
+Using only dates in 2019 to give the model more training data.   
 If we focus on dates only in 2019 the models have a 1.5% error - this means for a week in which our model predicts 1000 orders, the error is at most 20 orders.
 
 <center><img src="results.png"></center>
@@ -125,7 +125,7 @@ The product that was delivered to the partner was a reproducible pipeline that i
 The pipeline is containerized using Docker and uses a Makefile command to run. The docker image was also made available to the company via **Docker Hub**. 
 
 Once the `CSVs` are created with the scripts, they can be transferred to a Tableau dashboard. 
-The Tableau dashboard we developed visualizes past orders and the model predictions. 
+The dashboard we developed visualizes past orders and the model predictions. 
 
 <center><img src="dash1.png"></center>
   <center><font size="2" color="#A9A9A9"><strong> Fig 3: Predictive dashboard page showing hover by location  </strong></font></center>
@@ -147,10 +147,10 @@ The Tableau dashboard we developed visualizes past orders and the model predicti
 
 <font size="5"> **Possible Improvements:**</font>      
 
-Time was a constraint for this project, however, we think there are improvements that could improve our analysis. The following could enhance the model:
+Because time was a constraint for this project, we identified improvements to enhance our analysis:
 
 * Running the models only on the undecided groups, and add their expected values to the numbers of the decided groups (opt-in for paused and opt-out for active)
-* Account for holiday weeks which tend to contribute to lower order numbers. 
+* Account for holiday weeks which tend to contribute to lower order numbers
 * Explore further the effects of other features such as recipes and customizations 
 
 ---
