@@ -14,8 +14,8 @@
   weight = 2
 
 [[main]]
-  name = "Blog"
-  url = "#blog"
+  name = "Posts"
+  url = "#post"
   weight = 3
 
 [[main]]
@@ -23,9 +23,14 @@
   url = "#contact"
   weight = 4
 
+[[main]]
+  name = "CVs"
+  url = "/cvs/"
+  weight = 5
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "https://drive.google.com/file/d/1tO5ChI9rqOTphy6yl7t75eepIEz-KW_h/view?usp=sharing"
-    weight = 5
+# [[main]]
+#    name = "CV"
+#    url = "https://drive.google.com/file/d/1tO5ChI9rqOTphy6yl7t75eepIEz-KW_h/view?usp=sharing"
+#    weight = 5

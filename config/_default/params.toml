@@ -12,10 +12,10 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "A personal website for Hayley Ford Boyce Data Scientist"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "hb.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -121,7 +121,7 @@ comment_count = true
 section_pager = false
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]
@@ -139,9 +139,9 @@ sharing = true
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 1
-  publication_view = 1
-  talk_view = 1
+  post_view = 3
+  publication_view = 3
+  talk_view = 3
 
 # Search.
 [search]

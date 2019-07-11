@@ -1,7 +1,6 @@
 +++
 # A Projects section created with the Portfolio widget.
 widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
@@ -16,11 +15,11 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 1
+view = 2
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
+widget_layout = 1
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows = false
@@ -34,16 +33,16 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+ [[filter]]
+   name = "All"
+   tag = "*"
+
+ [[filter]]
+   name = "Deep Learning"
+   tag = "Deep Learning"
+
+ [[filter]]
+   name = "Other"
+   tag = "Demo"
 
 +++
