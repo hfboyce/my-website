@@ -121,10 +121,10 @@ If we focus on dates only in 2019 the models have a 1.5% error - this means for 
 
 <font size="5"> **Data Product:**</font>  
 
-The product that was delivered to the partner was a reproducible pipeline that includes scripts that create clean data and run a predictive model that produces order probabilities per customer.
+The product that was delivered to the partner was a reproducible pipeline that includes scripts that creates clean data and runs a predictive model that produces order probabilities per customer.
 The pipeline is containerized using Docker and uses a Makefile command to run. The docker image was also made available to the company via **Docker Hub**. 
 
-Once the `CSVs` are created with the scripts, they can be transferred to a Tableau dashboard. 
+Once the `CSVs` are created with the scripts, they can be transferred to a **Tableau** dashboard. 
 The dashboard we developed visualizes past orders and the model predictions. 
 
 <center><img src="dash1.png"></center>
