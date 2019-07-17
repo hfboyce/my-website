@@ -56,8 +56,8 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "mountain"
+  icon = "project-diagram"
   icon_pack = "fas"
-  name = "Hiking"
+  name = "Project Management"
 
 +++
