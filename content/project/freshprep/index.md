@@ -168,7 +168,7 @@ Because time was a constraint for this project, we identified improvements to en
 
 <font size="4"> **_Additional Remarks:_**</font>   
 <font size="2.5"> 
-This was a Master program capstone project worked in collaboration with: 
+This was a capstone project worked in collaboration with: 
 
 * [Orphelia Ellogne](https://www.linkedin.com/in/amah-orphelia-ellogne-a51b11a3/)
 * [Maninder Kholi](https://www.linkedin.com/in/manikohli/)
