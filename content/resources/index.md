@@ -7,7 +7,7 @@ draft = false
 #### _Archiving webpages/links and literature that has been particularly helpful in my work and projects_ 
 
 ---
-Coming Soon 
+_Coming Soon_
 
 ---
 

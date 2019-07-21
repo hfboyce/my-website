@@ -31,7 +31,7 @@ focal_point = "Center"
 
 #### _Since I find it difficult to highlight more soft skills, workplace compatibility and values in a resume, I've made a less technical one to reflect these traits_
 
-* Coming Soon
+* _Coming Soon_
 
 
 
