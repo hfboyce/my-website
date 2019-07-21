@@ -29,7 +29,7 @@ focal_point = "Center"
 * [Single-page condensed](https://drive.google.com/file/d/1xeezy948RPHx5F5qh2LnrABmxCB6RoN2/view?usp=sharing)
 * [Multi-page with summary](https://drive.google.com/file/d/1Scac8FRQlU-loaPn-EroiY6qepgeGvb9/view?usp=sharing)
 
-#### _Since I find it difficult to highlight more soft skills, workplace compatibility and values I've made a less technical resume to reflect these traits_
+#### _Since I find it difficult to highlight more soft skills, workplace compatibility and values in a resume, I've made a less technical one to reflect these traits_
 
 * Coming Soon
 
