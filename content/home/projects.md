@@ -1,48 +1,44 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+[content]
+  # Page type to display. E.g. project.
+  page_type = "project"
 
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 2
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
-# Widget layout
-# Legend: 0 = two columns (default), 1 = single column
-widget_layout = 1
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 1
 
-# For Showcase view, flip alternate rows?
-flip_alt_rows = false
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
-# Filter toolbar.
+  [[content.filter_button]]
+    name = "Current"
+    tag = "current"
 
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# To show all items, set `tag` to "*".
-# To filter by a specific tag, set `tag` to an existing tag name.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
- [[filter]]
-   name = "All"
-   tag = "*"
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
 
- [[filter]]
-   name = "Deep Learning"
-   tag = "Deep Learning"
-
- [[filter]]
-   name = "Other"
-   tag = "Demo"
-
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
 +++

@@ -3,7 +3,7 @@ title = "Fresh Prep: Order Predictions"
 date = 2019-06-27
 draft = false
 
-#Tags: can be used for filtering projects.
+Tags = ["current"]
 
 #Example: tags = ["machine-learning", "deep-learning"]
 #Project summary to display on homepage.
@@ -115,9 +115,6 @@ To put this into perspective - for a week in the company predicts 1000 orders, t
 Using only dates in 2019 to give the model more training data.   
 If we focus on dates only in 2019 the models have a 1.5% error - this means for a week in which our model predicts 1000 orders, the error is at most 20 orders.
 
-<center><img src="results.png"></center>
-  <center><font size="2" color="#A9A9A9"><strong> Fig 2: Results of the predictive model vs. actual orders </strong></font></center>
-
 
 <font size="5"> **Data Product:**</font>  
 
@@ -174,5 +171,5 @@ This was a capstone project worked in collaboration with:
 * [Maninder Kholi](https://www.linkedin.com/in/manikohli/)
 * [Rachel K. Riggs](https://www.linkedin.com/in/rachel-k-riggs/)
 
-Under the supervision of [Micheal Gelbart](https://www.mikegelbart.com) 
+Under the supervision of [Michael Gelbart](https://www.mikegelbart.com) 
 </font>   

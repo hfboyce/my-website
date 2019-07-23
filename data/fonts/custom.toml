@@ -1,0 +1,16 @@
+# Theme metadata
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = "Raleway"
+body_font = "GenLight"
+nav_font = "Raleway"
+mono_font = "RursusCompactMonoMedium"
+
+# Font size
+font_size = "16"
+font_size_small = "14"

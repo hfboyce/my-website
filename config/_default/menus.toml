@@ -6,32 +6,57 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 1
+  weight = 10
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 2
+  weight = 20
 
 [[main]]
   name = "Posts"
   url = "#post"
-  weight = 3
+  weight = 30
 
 [[main]]
   name = "CV"
   url = "/cvs/"
-  weight = 4
+  weight = 40
 
 [[main]]
   name = "Resources"
-  url = "/resources/"
-  weight = 5
+  identifier = "resources"
+  weight = 50
+
+
+[[main]]
+  parent = "resources"
+  name = "Data Science"
+  url = "/resources_gen_ds/"
+  weight = 1
+
+[[main]]
+  parent = "resources"
+  name = "Machine Learning"
+  url = "/resources_machine_learning/"
+  weight = 2
+
+[[main]]
+  parent = "resources"
+  name = "Statistics"
+  url = "/resources_stats/"
+  weight = 3
+  
+[[main]]
+  parent = "resources"
+  name = "Miscellaneous"
+  url = "/resources_general/"
+  weight = 4
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
