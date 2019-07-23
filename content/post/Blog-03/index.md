@@ -166,6 +166,7 @@ And now you can begin wrangling using python commands!
 
 The example using the dvdrental database from earlier looked like this:
 
+
 <img src= "pythonex.jpg">
 
 

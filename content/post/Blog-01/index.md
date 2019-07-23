@@ -39,12 +39,12 @@ A key point that contributes to the effectiveness of an explanation are the qual
 And don't forget this useful acronym that our instruction told us about! 
 
 ADEPT: 
-* Analogy 
-* Diagram
-* Example 
-* Plain English 
-* Technical Definition 
-
+* Analogy   
+* Diagram   
+* Example    
+* Plain English    
+* Technical Definition    
+ 
 Don't be afraid to make it playful. The more effective explanation used in class was fun, upbeat, and it was delivered in a less dry manner. 
 
 Good luck and happy explaining!
