@@ -26,8 +26,8 @@ focal_point = "Center"
 
 #### _There seems to be an obvious divide between how people prefer to receive CVs and resumes. In an attempt to satisfy the majority, I have added both a single page resume and a multi-page for convenience._ 
 
-* [Single-page condensed](https://drive.google.com/file/d/1pF1-M9_dMBDDk0_OGoklPg2c7jjfCXBt/view?usp=sharing)
-* [Multi-page with summary](https://drive.google.com/file/d/1qP-SXuViRMqBZj0PB__JBlNVAZ66KoGj/view?usp=sharing)
+* [Single-page condensed](https://drive.google.com/file/d/1hjd_ju3T2hyfw2qd3d9g9VYtJsAdk1es/view?usp=sharing)
+* [Multi-page with summary](https://drive.google.com/file/d/1gS5FAN9G8cR8CzXfwXRXGMzTCqO9AqZt/view?usp=sharing)
 
 #### _Since I find it difficult to highlight more soft skills, workplace compatibility and values in a resume, I've made a less technical one to reflect these traits_
 
