@@ -164,7 +164,7 @@ actors = pd.read_sql("SELECT * FROM insert-table-name-here", connection)
 
 And now you can begin wrangling using python commands! 
 
-The example using the dvdrental database from earlier looked like this:
+The example using the `dvdrental` database from earlier looked like this:
 
 
 <img src= "pythonex.jpg">
