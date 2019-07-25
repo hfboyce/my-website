@@ -1,6 +1,6 @@
 +++
 title = "What Makes a Good Explanation"
-date = 2018-09-11
+date = 2018-09-12
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
