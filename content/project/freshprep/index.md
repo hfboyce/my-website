@@ -79,7 +79,7 @@ This enabled Fresh Prep to:
 <font size="5"> **Procedure:**</font>  
 
 1. **Data Wrangling:**  
-  During the course of this project, we were lucky to have a substantial amount of data and Relational Databases to conduct our analysis. Fresh Prep stored their data using PostgresSQL. To create a model to predict order probabilities we had to engineer all our features and wrangle the data into a single clean `CSV`. We used R to do our wrangling instead of SQL for the convenience of conducting concurrent Exploratory Data Analysis. 
+  During the course of this project, we were lucky to have a substantial amount of data and Relational Databases to conduct our analysis. Fresh Prep stored their data using PostgreSQL. To create a model to predict order probabilities we had to engineer all our features and wrangle the data into a single clean `CSV`. We used R to do our wrangling instead of SQL for the convenience of conducting concurrent Exploratory Data Analysis. 
 
 2. **Exploratory Data Analysis (EDA):**  
   Through the process of EDA, the team was able to make quite a number of valuable insights into the business: 
