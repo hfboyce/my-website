@@ -8,7 +8,7 @@ Tags = ["R"]
 #Example: tags = ["machine-learning", "deep-learning"]
 #Project summary to display on homepage.
 
-summary = "A Python and R package facilitating colourblind friendly visualizations"
+summary = "datateachr is an R package with the goal to provide an easy way to access open source data for educational purposes. It contains several semi-tidied data sets obtained from multiple sources."
 
 #Slides (optional).
 #Associate this page with Markdown slides.

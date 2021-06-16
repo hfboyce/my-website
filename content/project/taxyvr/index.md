@@ -1,5 +1,5 @@
 +++
-title = "taxvyr - R package"
+title = "taxvyr"
 date = 2020-03-01
 draft = false
 Tags = ["R"]
@@ -8,7 +8,7 @@ Tags = ["R"]
 #Example: tags = ["machine-learning", "deep-learning"]
 #Project summary to display on homepage.
 
-summary = "A Python and R package facilitating colourblind friendly visualizations"
+summary = "An R package facilitating the easy access to the Vancouver housing assessment data. This is semi-tidied data obtained from the City of Vancouver’s Open Data Portal."
 
 #Slides (optional).
 #Associate this page with Markdown slides.
