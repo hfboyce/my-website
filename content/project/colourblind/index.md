@@ -2,7 +2,7 @@
 title = "ColourblindR & Colourblind8"
 date = 2019-03-01
 draft = false
-Tags = ["current"]
+Tags = ["all", "r", "python"]
 #Tags: can be used for filtering projects.
 
 #Example: tags = ["machine-learning", "deep-learning"]

@@ -1,8 +1,8 @@
 +++
-title = "taxvyr"
+title = "BAIT 509"
 date = 2021-05-19
 draft = false
-Tags = ["courses"]
+Tags = ["courses", "python"]
 #Tags: can be used for filtering projects.
 
 #Example: tags = ["machine-learning", "deep-learning"]

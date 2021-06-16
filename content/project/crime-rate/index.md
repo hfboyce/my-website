@@ -2,7 +2,7 @@
 title = "Boston Criminal Records using Shiny"
 date = 2019-02-01
 draft = false
-Tags = ["all"]
+Tags = ["all", "r"]
 #Tags: can be used for filtering projects.
 
 #Example: tags = ["machine-learning", "deep-learning"]
