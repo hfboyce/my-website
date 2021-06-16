@@ -26,8 +26,16 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Current"
-    tag = "current"
+    name = "R"
+    tag = "r"
+
+  [[content.filter_button]]
+    name = "Python"
+    tag = "python"
+  
+  [[content.filter_button]]
+    name = "Courses"
+    tag = "courses"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
