@@ -26,7 +26,7 @@ external_link = "https://bait509-ubc.github.io/BAIT509/intro.html"
 
 #url_pdf = "" url_code = "" url_dataset = "" url_slides = "" url_video = "" url_poster = ""
 
-url_code = "https://github.com/hfboyce/taxyvr"
+url_code = "https://github.com/hfboyce/bait509"
 
 #Custom links (optional).
 
