@@ -9,7 +9,7 @@ Tags = ["courses"]
 #Project summary to display on homepage.
 
 summary = "BAIT509 - Business Applications of Machine Learning is a course offered by UBC's Sauder School of Business for their Master of Business Analytics program"
-"
+
 
 #Slides (optional).
 #Associate this page with Markdown slides.
