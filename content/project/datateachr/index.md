@@ -1,8 +1,8 @@
 +++
-title = "ColourblindR & Colourblind8"
-date = 2019-03-01
+title = "datateachr"
+date = 2020-03-01
 draft = false
-Tags = ["current"]
+Tags = ["R"]
 #Tags: can be used for filtering projects.
 
 #Example: tags = ["machine-learning", "deep-learning"]
@@ -19,7 +19,7 @@ summary = "A Python and R package facilitating colourblind friendly visualizatio
 slides = ""
 
 #Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/UBC-MDS/datateachr#readme"
 
 #Links (optional).
 
