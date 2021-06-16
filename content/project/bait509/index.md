@@ -1,14 +1,15 @@
 +++
 title = "taxvyr"
-date = 2020-03-01
+date = 2021-05-19
 draft = false
-Tags = ["r"]
+Tags = ["courses"]
 #Tags: can be used for filtering projects.
 
 #Example: tags = ["machine-learning", "deep-learning"]
 #Project summary to display on homepage.
 
-summary = "An R package facilitating the easy access to the Vancouver housing assessment data. This is semi-tidied data obtained from the City of Vancouver’s Open Data Portal."
+summary = "BAIT509 - Business Applications of Machine Learning is a course offered by UBC's Sauder School of Business for their Master of Business Analytics program"
+"
 
 #Slides (optional).
 #Associate this page with Markdown slides.
@@ -19,7 +20,7 @@ summary = "An R package facilitating the easy access to the Vancouver housing as
 slides = ""
 
 #Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/hfboyce/taxyvr#readme"
+external_link = "https://bait509-ubc.github.io/BAIT509/intro.html"
 
 #Links (optional).
 
