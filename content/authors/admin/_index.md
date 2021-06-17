@@ -9,10 +9,10 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Data Scientist"
+role = "Data Scientist and Educator"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Discovering and displaying impactful insights from data"
+bio = "I like to discover, display and communicate impactful insights from data making sure that transparency is clear and easy to understand for the respective audience."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -22,6 +22,7 @@ interests = [
   "Data Visualization",
   "Machine Learning",
   "Statistical Analysis",
+  "Teaching",
   
 ]
 
