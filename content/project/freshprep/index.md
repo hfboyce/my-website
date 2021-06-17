@@ -37,7 +37,6 @@ url_video = "https://drive.google.com/file/d/1SMXQXHZKUIhUgyqobPEwAn9cb6Mk7lfD/v
 
 [image]
   placement= 1
-  caption= 'Your caption here.'
   focal_point= ''
   preview_only= false
 
