@@ -33,7 +33,7 @@ featured: false
 
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Smart'
   preview_only: no
 
 links:
