@@ -32,9 +32,9 @@ tags: []
 featured: false
 
 image:
-  placement: 1
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: ''
+  preview_only: no
 
 links:
 - icon: twitter
