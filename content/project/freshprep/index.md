@@ -37,7 +37,6 @@ url_video = "https://drive.google.com/file/d/1SMXQXHZKUIhUgyqobPEwAn9cb6Mk7lfD/v
 
 [image]
   placement= 1
-  focal_point= ''
   preview_only= false
 
 #Caption (optional)
@@ -46,7 +45,7 @@ caption = "To protect the privacy of the company, all data used in the Dashboard
 #Focal point (optional)
 #Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 
-focal_point = "Center"
+focal_point = "Smart"
 +++
 
 <font size="5"> **Summary:**</font>    
