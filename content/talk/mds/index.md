@@ -57,7 +57,12 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- []
+
+url_code: ""
+url_pdf: ""
+url_slides: "https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html"
+url_video: ""
 ---
 
 
