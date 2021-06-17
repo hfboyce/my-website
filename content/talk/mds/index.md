@@ -59,10 +59,10 @@ slides: example
 projects:
 - []
 
-url_code: ""
+url_code: "https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html"
 url_pdf: ""
 url_slides: "https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html"
-url_video: ""
+url_video: "https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html"
 ---
 
 
