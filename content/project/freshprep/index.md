@@ -36,6 +36,10 @@ url_video = "https://drive.google.com/file/d/1SMXQXHZKUIhUgyqobPEwAn9cb6Mk7lfD/v
 #To use, add an image named featured.jpg/png to your page's folder.
 
 [image]
+  placement= 1
+  caption= 'Your caption here.'
+  focal_point= ''
+  preview_only= false
 
 #Caption (optional)
 caption = "To protect the privacy of the company, all data used in the Dashboard images are fabricated"
