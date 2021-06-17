@@ -12,7 +12,7 @@ superuser = true
 role = "Data Scientist and Educator"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I like to discover, display and communicate impactful insights from data making sure that transparency is clear and easy to understand for the respective audience."
+bio = "I like to discover, display and communicate impactful insights from data, making sure they are transparent, clear and easy to understand for the respective audience."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
