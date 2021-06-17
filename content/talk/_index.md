@@ -11,4 +11,5 @@ view = 2
 [header]
 image = ""
 caption = ""
+focal_point = "Smart"
 +++
