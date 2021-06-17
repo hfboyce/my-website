@@ -1,7 +1,8 @@
 ---
-title: Example Talk
+title: How to Succeed/Survive in MDS
 
-event: Wowchemy Conference
+
+event: MDS 
 event_url: https://example.org
 
 location: Wowchemy HQ
@@ -31,8 +32,9 @@ tags: []
 featured: false
 
 image:
+  placement: 1
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  focal_point: ''
 
 links:
 - icon: twitter
